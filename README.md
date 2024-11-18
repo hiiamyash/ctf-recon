@@ -1,8 +1,8 @@
-This bash script automates reconnaissance tasks for CTFs using tmux.
-Usage
-Copy code
-./ctf-recon.sh <ip> <port> <option>
-Options:
+This bash script automates reconnaissance tasks for CTFs using tmux.\n
+Usage\n
+Copy code\n
+./ctf-recon.sh <ip> <port> <option>\n
+Options:\n
 nmap - Runs Nmap and Rustscan.
 web - Runs web enumeration tools: ffuf, feroxbuster, nikto.
 all - Runs both nmap and web scans.
