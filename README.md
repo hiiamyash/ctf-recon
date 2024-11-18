@@ -17,9 +17,9 @@ all - Runs both nmap and web scans.
 * tmux, rustscan, nmap, ffuf, feroxbuster, nikto
 
 ### Installing
-
-* git clone https://github.com/hiiamyash/ctf-recon.git
-
+```
+git clone https://github.com/hiiamyash/ctf-recon.git
+```
 ### Executing program
 
 * chmod +x ctf-recon.sh
