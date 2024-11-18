@@ -22,8 +22,6 @@ git clone https://github.com/hiiamyash/ctf-recon.git
 ```
 ### Executing program
 
-* chmod +x ctf-recon.sh
-* ./ctf-recon <targetip> <port> <ports>
 ```
 chmod +x ctf-recon.sh
 ./ctf-recon
