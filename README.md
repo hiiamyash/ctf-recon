@@ -18,7 +18,7 @@ all - Runs both nmap and web scans.
 
 ### Installing
 
-* git clone 
+* git clone https://github.com/hiiamyash/ctf-recon.git
 
 ### Executing program
 
